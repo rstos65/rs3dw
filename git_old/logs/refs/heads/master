@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 36601b8ff23b69dbc3441b059b3c220e1a778a7e rstos <ricardostos65@gmail.com> 1511260781 -0200	commit (initial): rs3dw app, first commit
-36601b8ff23b69dbc3441b059b3c220e1a778a7e 1ebb7883f1b3e1be9476c1daa06ba33a7f5f02db rstos <ricardostos65@gmail.com> 1511525609 -0200	commit: Changed the HTML for the site.
-1ebb7883f1b3e1be9476c1daa06ba33a7f5f02db f3fc74f305f0006fbbe4965013f3a403132ced38 rstos <ricardostos65@gmail.com> 1511539472 -0200	commit: Modified templates to display posts from database.
-f3fc74f305f0006fbbe4965013f3a403132ced38 b84cd0910d68c0fb0873636f54cea6beacc39c7b rstos <ricardostos65@gmail.com> 1511540249 -0200	commit: Modified templates to display posts from database.
